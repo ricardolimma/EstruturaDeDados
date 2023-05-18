@@ -1,6 +1,6 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
-public class UsandoFilaGenerics { // "estacionamento"
+public class UsandoFilaGenerics {
     public static void main(String[] args) {
         
         Fila<Carro> estacionamento = new Fila<>();
