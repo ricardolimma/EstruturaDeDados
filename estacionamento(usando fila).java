@@ -1,7 +1,7 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
 public class UsandoFilaGenerics {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         
         Fila<Carro> estacionamento = new Fila<>();
         int op;
